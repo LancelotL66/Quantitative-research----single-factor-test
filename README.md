@@ -245,14 +245,6 @@ $$
 
 ---
 
-## 技术细节与改进
-
-详见项目内文档：
-
-- [`key_conclusions.md`](key_conclusions.md) — 数据概况、因子定义、IC 结果、原始 QP 参数
-- [`qp_redesign_notes.md`](qp_redesign_notes.md) — QP 缺陷分析（对角协方差矩阵、行业约束矛盾、权重清理破坏约束等）与改进方向
-
----
 
 ## License
 
